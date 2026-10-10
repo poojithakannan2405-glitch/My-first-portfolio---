@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poojitha | Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I'm Poojitha K</h1>
+    <h2>B.E. Computer Science Engineering Student</h2>
+
+    <p>I am a first-year CSE student interested in
+    Python, Artificial Intelligence and Web Development.</p>
+
+    <h2>My Skills</h2>
+    <p>Python | HTML | Problem Solving | Generative AI</p>
+
+    <h2>My Goal</h2>
+    <p>I want to learn new technologies and gain
+    practical experience through internships.</p>
+
+    <h2>My Projects</h2>
+    <p>Personal Portfolio Website - My first project.</p>
+</body>
+</html>
